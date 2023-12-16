@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "NEUerの生存手册"
+  name: NEUerの生存手册
   text: 为NEUer们提供的生存攻略
-  tagline: 联系我们：123456789@gmail.com
+  tagline: 联系我们：sugrsertraline@gmail.com
   image:
     src: /assets/School emblem.png
   actions:
@@ -14,6 +14,10 @@ hero:
       link: /introduction
 
 features:
-  - title: 专属于NEUer
-    details: 为NEUer们量身定制，帮助大家更好的完成大学生活
+  - title: 生活指南
+    details: 给NEUer们包括吃喝玩乐、出行、水电费等多方面的攻略和建议
+  - title: 学习指南
+    details: 给NEUer们提供成长发展指导、公共课专业课的学习方式
+  - title: 其他内容
+    details: 给大家提供生活方面的建议，让大家少走弯路
 ---

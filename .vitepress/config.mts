@@ -13,50 +13,40 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '写在前面',
+        text: '简介篇',
         items: [
           {
             text: '写在前面',
-            items: [
-              { text: '关于这个', link: '/introduction' },
-
-            ]
+            link: '/introduction'
           },
-          {
-            text: '写在前面2',
-            items: [
-              { text: '关于这个', link: '/introduction' },
-
-            ]
-          }
         ]
       },
       {
-        text: '写在前面',
+        text: '校园生活篇',
         items: [
-          {
-            text: '写在前面',
-            items: [
-              { text: '关于这个', link: '/introduction' },
-
-            ]
-          },
-          {
-            text: '写在前面2',
-            items: [
-              { text: '关于这个', link: '/introduction' },
-
-            ]
-          },
-          {
-            text: '写在前面2',
-            items: [
-              { text: '关于这个', link: '/introduction' },
-              { text: '关于这个2', link: '/introduction' }, { text: '关于这个3', link: '/introduction' },
-            ]
-          }
+          { text: '出行方式', link: '/school_life/to_out' },
+          // { text: '发取快递' },
+          { text: '校园卡业务', link: '/school_life/school_card' },
+          // { text: '医疗与报销' },
+          // { text: '玩乐推荐' },
+          // { text: '体育运动' },
+          // { text: '生活TIPS' },
         ]
       },
+      {
+        text: '学在东大篇',
+        items: [
+          { text: '基础信息' },
+          { text: '机考指南' },
+          { text: '公共课' },
+          {
+            text: '学院攻略', items: [
+              { text: '软件学院' }
+            ]
+          },
+
+        ]
+      }
     ],
     search: {
       provider: 'local'
