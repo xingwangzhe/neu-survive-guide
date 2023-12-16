@@ -15,10 +15,48 @@ export default defineConfig({
       {
         text: '写在前面',
         items: [
-          { text: '关于这个', link: '/introduction' },
+          {
+            text: '写在前面',
+            items: [
+              { text: '关于这个', link: '/introduction' },
 
+            ]
+          },
+          {
+            text: '写在前面2',
+            items: [
+              { text: '关于这个', link: '/introduction' },
+
+            ]
+          }
         ]
-      }
+      },
+      {
+        text: '写在前面',
+        items: [
+          {
+            text: '写在前面',
+            items: [
+              { text: '关于这个', link: '/introduction' },
+
+            ]
+          },
+          {
+            text: '写在前面2',
+            items: [
+              { text: '关于这个', link: '/introduction' },
+
+            ]
+          },
+          {
+            text: '写在前面2',
+            items: [
+              { text: '关于这个', link: '/introduction' },
+              { text: '关于这个2', link: '/introduction' }, { text: '关于这个3', link: '/introduction' },
+            ]
+          }
+        ]
+      },
     ],
     // socialLinks: [
     //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
