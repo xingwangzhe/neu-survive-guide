@@ -36,7 +36,7 @@ export default defineConfig({
       {
         text: '学在东大篇',
         items: [
-          { text: '基础信息' },
+          { text: '基础信息', link: '/learning/information' },
           { text: '机考指南' },
           { text: '公共课' },
           {
