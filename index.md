@@ -3,9 +3,10 @@
 layout: home
 
 hero:
-  name: "NEU survive guide"
-  text: "An guide for Neuer"
-  tagline: My great project tagline
+  name: "NEUerの生存手册"
+  text: 为NEUer们提供的生存攻略
+  image:
+    src: /assets/School emblem.png
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +16,6 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 专属于NEUer
+    details: 为NEUer们量身定制，帮助大家更好的完成大学生活
 ---
-
