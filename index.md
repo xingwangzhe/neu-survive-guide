@@ -9,11 +9,8 @@ hero:
     src: /assets/School emblem.png
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 开始阅读
+      link: /introduction
 
 features:
   - title: 专属于NEUer
