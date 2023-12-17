@@ -56,5 +56,6 @@ export default defineConfig({
     // ]
   },
   base: '/neu-survive-guide/'
+  // base: '/test/'
 })
 
