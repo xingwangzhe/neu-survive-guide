@@ -5,6 +5,12 @@ export default defineConfig({
   markdown: {
     math: true
   },
+  head: [
+    // 设置 favor.ico，.vuepress/public 下
+    [
+      'link', { rel: 'icon', href: '/public/poached-eggs-svgrepo-com.svg' }
+    ]]
+  ,
   title: "NEU Survive Guide",
   description: "An guide for NEUer",
   themeConfig: {
@@ -13,7 +19,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '开始阅读', link: '/introduction' }
     ],
-
+    logo: '/public/poached-eggs-svgrepo-com.svg',
     sidebar: [
       {
         text: '简介篇',
@@ -40,7 +46,7 @@ export default defineConfig({
         text: '学在东大篇',
         items: [
           { text: '基础学业信息', link: '/learning/information' },
-          { text: '机考指南' ,link: '/learning/jikao'},
+          { text: '机考指南', link: '/learning/jikao' },
           { text: '保研', link: 'learning/baoyan' },
           {
             text: '学院攻略', items: [
