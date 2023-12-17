@@ -8,7 +8,7 @@ export default defineConfig({
   head: [
     // 设置 favor.ico，.vuepress/public 下
     [
-      'link', { rel: 'icon', href: 'poached-eggs-svgrepo-com.svg' }
+      'link', { rel: 'icon', href: 'public/poached-eggs-svgrepo-com.svg' }
     ]]
   ,
   title: "NEU Survive Guide",
@@ -19,7 +19,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '开始阅读', link: '/introduction' }
     ],
-    logo: 'poached-eggs-svgrepo-com.svg',
+    logo: 'public/poached-eggs-svgrepo-com.svg',
     sidebar: [
       {
         text: '简介篇',
