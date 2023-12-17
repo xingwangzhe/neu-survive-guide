@@ -2,6 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  markdown: {
+    math: true
+  },
   title: "NEU Survive Guide",
   description: "An guide for NEUer",
   themeConfig: {
@@ -41,7 +44,7 @@ export default defineConfig({
           { text: '保研', link: 'learning/baoyan' },
           {
             text: '学院攻略', items: [
-              { text: '软件学院' }
+              { text: '软件学院', link: 'learning/college/software' }
             ]
           },
 
