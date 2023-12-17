@@ -55,7 +55,7 @@ export default defineConfig({
     //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     // ]
   },
-  // base: '/neu-survive-guide/'
-  base: '/test/'
+  base: '/neu-survive-guide/'
+  // base: '/test/'
 })
 
