@@ -19,5 +19,5 @@ features:
   - title: 学习指南
     details: 给NEUer们提供成长发展指导、公共课专业课的学习方式
   - title: 其他内容
-    details: 给大家提供生活方面的建议，让大家少走弯路
+    details: 给大家提供人生选择方面的建议，让大家少走弯路
 ---
