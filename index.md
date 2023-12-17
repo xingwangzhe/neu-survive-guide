@@ -7,7 +7,7 @@ hero:
   text: 为NEUer们提供的生存攻略
   tagline: 联系我们：sugrsertraline@gmail.com
   image:
-    src: /assets/School-emblem.png
+    src: /School-emblem.png
   actions:
     - theme: brand
       text: 开始阅读

@@ -11,6 +11,6 @@
  - 一号线：经由白塔交通岗前往兴隆大奥莱，如果要去奥体中心以及周边可以乘坐。
  - 四号线：前往二十一世纪大厦，附近有网红洗浴元气汤泉。
 <p align="center">
-  <img src="../assets/Tramway.png" alt="替代文本" width="400">
+  <img src="/Tramway.png" alt="替代文本" width="400">
 </p> -->
 ### 等待更新……
