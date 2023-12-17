@@ -36,9 +36,9 @@ export default defineConfig({
       {
         text: '学在东大篇',
         items: [
-          { text: '基础信息', link: '/learning/information' },
-          { text: '机考指南' },
-          { text: '公共课' },
+          { text: '基础学业信息', link: '/learning/information' },
+          // { text: '机考指南' },
+          { text: '保研', link: 'learning/baoyan' },
           {
             text: '学院攻略', items: [
               { text: '软件学院' }
