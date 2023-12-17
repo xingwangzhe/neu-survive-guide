@@ -25,7 +25,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '校园生活篇',
+        text: '活在东大篇',
         items: [
           { text: '出行方式', link: '/school_life/to_out' },
           // { text: '发取快递' },
