@@ -37,9 +37,9 @@ export default defineConfig({
           // { text: '发取快递' },
           { text: '校园卡业务', link: '/school_life/school_card' },
           // { text: '医疗与报销' },
-          // { text: '玩乐推荐' },
+          { text: '玩乐推荐（浑南篇）', link: '/school_life/recommend_hunnan' },
           { text: '体育运动', link: '/school_life/exercise' },
-          // { text: '生活TIPS' },
+          { text: '生活TIPS', link: '/school_life/tips' },
         ]
       },
       {
