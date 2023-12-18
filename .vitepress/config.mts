@@ -48,6 +48,7 @@ export default defineConfig({
           { text: '基础学业信息', link: '/learning/information' },
           { text: '机考指南', link: '/learning/jikao' },
           { text: '保研', link: '/learning/baoyan' },
+          { text: '公共课', link: '/learning/public_class' },
 
         ]
       },
