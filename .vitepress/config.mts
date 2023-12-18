@@ -36,7 +36,7 @@ export default defineConfig({
           { text: '出行方式', link: '/school_life/to_out' },
           // { text: '发取快递' },
           { text: '校园卡业务', link: '/school_life/school_card' },
-          // { text: '医疗与报销' },
+          { text: '医疗与报销' ,link: '/school_life/medicare'},
           // { text: '玩乐推荐' },
           // { text: '体育运动' },
           // { text: '生活TIPS' },
