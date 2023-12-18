@@ -14,10 +14,11 @@ hero:
       link: /introduction
 
 features:
+  - title: 更新记录
+    details: 更新了浑南校区生活服务、高数学习建议的内容
   - title: 生活贴士
     details: 给NEUer们包括吃喝玩乐、出行、水电网费等多方面的攻略和建议
   - title: 学习发展
     details: 给NEUer们提供成长发展指导、公共课专业课的学习方式
-  - title: 其他内容
-    details: 给大家提供在东大生活的各种信息和建议，让大家少走弯路
+
 ---
