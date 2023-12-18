@@ -31,26 +31,37 @@ export default defineConfig({
         ]
       },
       {
-        text: '活在东大篇',
+        text: '校园生活',
         items: [
           { text: '出行方式', link: '/school_life/to_out' },
           // { text: '发取快递' },
           { text: '校园卡业务', link: '/school_life/school_card' },
           // { text: '医疗与报销' },
           // { text: '玩乐推荐' },
-          // { text: '体育运动' },
+          { text: '体育运动', link: '/school_life/exercise' },
           // { text: '生活TIPS' },
         ]
       },
       {
-        text: '学在东大篇',
+        text: '学在东大',
         items: [
           { text: '基础学业信息', link: '/learning/information' },
           { text: '机考指南', link: '/learning/jikao' },
-          { text: '保研', link: 'learning/baoyan' },
+          { text: '保研', link: '/learning/baoyan' },
+
+        ]
+      },
+      {
+        text: '学院攻略',
+        items: [
+          { text: '写在前面', link: '/college/introduction' },
           {
-            text: '学院攻略', items: [
-              { text: '软件学院', link: 'learning/college/software' }
+            text: '软件学院', items: [
+              { text: '学院简介', link: '/college/software/introduction' },
+              { text: '保研', link: '/college/software/baoyan' },
+              { text: '创新创业与竞赛', link: '/college/software/innovation' },
+              { text: '就业', link: '/college/software/work' },
+
             ]
           },
 
