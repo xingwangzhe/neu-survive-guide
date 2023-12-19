@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: 更新记录
-    details: 更新了浑南校区生活服务、高数学习建议的内容
+    details: 更新了目录、浑南校区出行、支教保研
   - title: 生活贴士
     details: 给NEUer们包括吃喝玩乐、出行、水电网费等多方面的攻略和建议
   - title: 学习发展
