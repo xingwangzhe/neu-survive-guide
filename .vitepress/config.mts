@@ -40,7 +40,9 @@ export default defineConfig({
             { text: '校园卡业务', link: '/school_life/school_card' },
             { text: '医疗与报销', link: '/school_life/medicare' },
             { text: '玩乐推荐', link: '/school_life/recommend_hunnan' },
-            { text: '体育运动', link: '/school_life/exercise' },],
+            { text: '体育运动', link: '/school_life/exercise' },
+            { text: '诈骗防范', link: '/school_life/zhapian' },
+            ],
           }
           // { text: '生活TIPS' },
         ]
