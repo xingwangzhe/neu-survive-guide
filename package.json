@@ -10,6 +10,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
+    "element-plus": "^2.4.4",
     "markdown-it-math": "^4.1.1",
     "vuetify": "^3.4.7"
   }
