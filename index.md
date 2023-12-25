@@ -14,11 +14,13 @@ hero:
       link: /introduction
 
 features:
-  - title: 更新记录
+  - icon:
+      src: /drumstick-svgrepo-com.svg
+    title: 更近记录
     details: 更新了目录、浑南校区出行、支教保研
   - title: 生活贴士
     details: 给NEUer们包括吃喝玩乐、出行、水电网费等多方面的攻略和建议
-  - title: 学习发展
-    details: 给NEUer们提供成长发展指导、公共课专业课的学习方式
+  - title: 成员招募
+    details: 如果有加入我们的想法，可以添加QQ:3299104477
 
 ---
