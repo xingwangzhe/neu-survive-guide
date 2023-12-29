@@ -25,6 +25,6 @@ features:
   - title: 成员招募
     icon:
         src: /strawberry-svgrepo-com.svg
-    details: 如果有加入我们的想法，可以添加QQ:3299104477
+    details: 如果有加入我们的想法，更新滞销救救我们，如果有想要我们补充的内容或者是建议，都可以添加QQ:3299104477
 
 ---
