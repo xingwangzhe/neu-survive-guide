@@ -16,8 +16,8 @@ hero:
 features:
   - icon:
       src: /drumstick-svgrepo-com.svg
-    title: 更近记录
-    details: 更新了目录、浑南校区出行、支教保研
+    title: 公告
+    details: 最近忙于干毕设，等放假再更新
   - title: 生活贴士
     icon:
       src: /prickly-pear-svgrepo-com.svg
@@ -25,6 +25,6 @@ features:
   - title: 成员招募
     icon:
         src: /strawberry-svgrepo-com.svg
-    details: 如果有加入我们的想法，更新滞销救救我们，如果有想要我们补充的内容或者是建议，都可以添加QQ:3299104477
+    details: 更新滞销救救我们，如果想要和我们一起编写，可以加QQ:3299104477
 
 ---
