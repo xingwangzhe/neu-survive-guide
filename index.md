@@ -17,7 +17,7 @@ features:
   - icon:
       src: /drumstick-svgrepo-com.svg
     title: 公告
-    details: 最近忙于干毕设，等放假再更新
+    details: 更新内容
   - title: 生活贴士
     icon:
       src: /prickly-pear-svgrepo-com.svg
@@ -25,6 +25,6 @@ features:
   - title: 成员招募
     icon:
         src: /strawberry-svgrepo-com.svg
-    details: 更新滞销救救我们，如果想要和我们一起编写，可以加QQ:3299104477
+    details: 欢迎各位NEUer加入我们！
 
 ---

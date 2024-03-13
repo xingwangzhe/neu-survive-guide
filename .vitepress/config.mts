@@ -33,27 +33,29 @@ export default defineConfig({
       {
         text: '校园生活',
         items: [
+          { text: '通用篇',
+          items: [{ text: '医疗与报销', link: '/daily/tongyong/yiliao' },
+          { text: '玩遍沈阳', link: '' },
+          { text: '诈骗防范', link: '/daily/tongyong/zhapian' },
+          ]
+          },
           {
             text: '浑南校区篇',
-            items: [{ text: '出行方式', link: '/school_life/to_out' },
+            items: [{ text: '出行方式', link: '/daily/hunnan/chuxing' },
             // { text: '发取快递' },
-            { text: '校园卡业务', link: '/school_life/school_card' },
-            { text: '医疗与报销', link: '/school_life/medicare' },
-            { text: '玩乐推荐', link: '/school_life/recommend_hunnan' },
-            { text: '体育运动', link: '/school_life/exercise' },
-            { text: '诈骗防范', link: '/school_life/zhapian' },
+            { text: '校园卡业务', link: '/daily/hunnan/xiaoyuanka' },
+            { text: '吃喝玩乐', link: '/daily/hunnan/yuletuijian' },            
             ],
           }
-          // { text: '生活TIPS' },
         ]
       },
       {
         text: '学在东大',
         items: [
-          { text: '基础学业信息', link: '/learning/information' },
+          { text: '基础学业信息', link: '/learning/xueyexinxi' },
           { text: '机考指南', link: '/learning/jikao' },
           { text: '保研', link: '/learning/baoyan' },
-          { text: '公共课', link: '/learning/public_class' },
+          { text: '公共课', link: '/learning/gonggongke' },
 
         ]
       },
@@ -63,10 +65,10 @@ export default defineConfig({
           { text: '写在前面', link: '/college/introduction' },
           {
             text: '软件学院', items: [
-              { text: '学院简介', link: '/college/software/introduction' },
+              { text: '学院简介', link: '/college/software/jianjie' },
               { text: '保研', link: '/college/software/baoyan' },
-              { text: '创新创业与竞赛', link: '/college/software/innovation' },
-              { text: '就业', link: '/college/software/work' },
+              { text: '创新创业与竞赛', link: '/college/software/chuangxin' },
+              { text: '就业', link: '/college/software/jiuye' },
 
             ]
           },
