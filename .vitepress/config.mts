@@ -31,11 +31,21 @@ export default defineConfig({
         ]
       },
       {
+        text: '贡献者寄语',
+        items: [
+          {
+            text: '23届苏同学',
+            link: '/message/suli'
+          },
+        ]
+      },
+      {
         text: '校园生活',
         items: [
           { text: '通用篇',
           items: [{ text: '医疗与报销', link: '/daily/tongyong/yiliao' },
           { text: '玩遍沈阳', link: '' },
+          { text: '气候与穿衣', link: '/daily/tongyong/qihou' },
           { text: '诈骗防范', link: '/daily/tongyong/zhapian' },
           ]
           },
@@ -45,6 +55,13 @@ export default defineConfig({
             // { text: '发取快递' },
             { text: '校园卡业务', link: '/daily/hunnan/xiaoyuanka' },
             { text: '吃喝玩乐', link: '/daily/hunnan/yuletuijian' },            
+            ],
+          },
+          {
+            text: '南湖校区篇',
+            items: [{ text: '饮食', link: '/daily/nanhu/yinshi' },
+            { text: '医疗与健康', link: '/daily/nanhu/yiliao' },
+            { text: '住宿与生活', link: '/daily/nanhu/zhusu' },
             ],
           }
         ]
