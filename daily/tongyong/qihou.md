@@ -20,3 +20,22 @@
 夏季会迅速进入高温天气，最高气温经常维持在零上三十度以上。因此建议防晒与避暑。得益于云团北上，最热的那几天经常会伴发降雨天气，所以最高气温一般不会突破35度。
 
 
+## 二、贡献者
+<VPTeamMembers size="small" :members="members" />
+
+
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: '/suli.jpg',
+    name: '苏璃',
+    title: '本页内容贡献者',
+    // links: [
+    //   { icon: 'github', link: 'https://github.com/yyx990803' },
+    //   { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
+    // ]
+  },
+]
+</script>
