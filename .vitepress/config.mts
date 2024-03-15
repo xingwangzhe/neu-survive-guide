@@ -14,7 +14,6 @@ export default defineConfig({
   title: "NEU Survive Guide",
   description: "An guide for NEUer",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
       { text: '开始阅读', link: '/introduction' }
@@ -42,29 +41,31 @@ export default defineConfig({
       {
         text: '校园生活',
         items: [
-          { text: '通用篇',
-          items: [{ text: '医疗与报销', link: '/daily/tongyong/yiliao' },
-          { text: '玩遍沈阳', link: '' },
-          { text: '气候与穿衣', link: '/daily/tongyong/qihou' },
-          { text: '诈骗防范', link: '/daily/tongyong/zhapian' },
-          { text: '运动健身', link: '/daily/tongyong/yundong' },
-          { text: '校园卡业务', link: '/daily/tongyong/xiaoyuanka' },
-          { text: '校园网', link: '/daily/tongyong/xiaoyuanwang' },
-          ]
+          {
+            text: '通用篇',
+            items: [
+              { text: '医疗与报销', link: '/daily/tongyong/yiliao' },
+              { text: '气候与穿衣', link: '/daily/tongyong/qihou' },
+              { text: '诈骗防范', link: '/daily/tongyong/zhapian' },
+              { text: '运动健身', link: '/daily/tongyong/yundong' },
+              { text: '校园卡业务', link: '/daily/tongyong/xiaoyuanka' },
+              { text: '校园网', link: '/daily/tongyong/xiaoyuanwang' },
+            ]
           },
           {
             text: '浑南校区篇',
-            items: [{ text: '出行方式', link: '/daily/hunnan/chuxing' },
-            
-            { text: '周边娱乐', link: '/daily/hunnan/yuletuijian' },            
+            items: [
+              { text: '出行方式', link: '/daily/hunnan/chuxing' },
+              { text: '周边娱乐', link: '/daily/hunnan/yuletuijian'},
             ],
           },
           {
             text: '南湖校区篇',
-            items: [{ text: '饮食', link: '/daily/nanhu/yinshi' },
-            { text: '生活', link: '/daily/nanhu/shenghuo' },
-            { text: '出行', link: '/daily/nanhu/chuxing' },
-            { text: '娱乐', link: '/daily/nanhu/yule' },
+            items: [
+              { text: '吃在南湖', link: '/daily/nanhu/yinshi' },
+              { text: '校园日常', link: '/daily/nanhu/shenghuo' },
+              { text: '出行方式', link: '/daily/nanhu/chuxing' },
+              { text: '周边娱乐', link: '/daily/nanhu/yule' },
             ],
           }
         ]
