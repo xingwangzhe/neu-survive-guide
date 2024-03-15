@@ -5,7 +5,7 @@ layout: home
 hero:
   name: NEUerの生存手册
   text: 为NEUer们提供的生存攻略
-  tagline: 联系我们：sugrsertraline@gmail.com
+  tagline: 交流QQ群：917423106
   image:
     src: /School-emblem.png
   actions:
