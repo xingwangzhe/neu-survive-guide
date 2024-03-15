@@ -34,7 +34,7 @@ export default defineConfig({
         text: '贡献者寄语',
         items: [
           {
-            text: '23届苏同学',
+            text: '23届自动化同学',
             link: '/message/suli'
           },
         ]
@@ -47,21 +47,24 @@ export default defineConfig({
           { text: '玩遍沈阳', link: '' },
           { text: '气候与穿衣', link: '/daily/tongyong/qihou' },
           { text: '诈骗防范', link: '/daily/tongyong/zhapian' },
+          { text: '运动健身', link: '/daily/tongyong/yundong' },
+          { text: '校园卡业务', link: '/daily/tongyong/xiaoyuanka' },
+          { text: '校园网', link: '/daily/tongyong/xiaoyuanwang' },
           ]
           },
           {
             text: '浑南校区篇',
             items: [{ text: '出行方式', link: '/daily/hunnan/chuxing' },
-            // { text: '发取快递' },
-            { text: '校园卡业务', link: '/daily/hunnan/xiaoyuanka' },
-            { text: '吃喝玩乐', link: '/daily/hunnan/yuletuijian' },            
+            
+            { text: '周边娱乐', link: '/daily/hunnan/yuletuijian' },            
             ],
           },
           {
             text: '南湖校区篇',
             items: [{ text: '饮食', link: '/daily/nanhu/yinshi' },
-            { text: '医疗与健康', link: '/daily/nanhu/yiliao' },
-            { text: '住宿与生活', link: '/daily/nanhu/zhusu' },
+            { text: '生活', link: '/daily/nanhu/shenghuo' },
+            { text: '出行', link: '/daily/nanhu/chuxing' },
+            { text: '娱乐', link: '/daily/nanhu/yule' },
             ],
           }
         ]
@@ -86,6 +89,13 @@ export default defineConfig({
               { text: '保研', link: '/college/software/baoyan' },
               { text: '创新创业与竞赛', link: '/college/software/chuangxin' },
               { text: '就业', link: '/college/software/jiuye' },
+
+            ]
+          },
+          {
+            text: '信息学院', items: [
+              { text: '学院简介', link: '/college/automation/jianjie' },
+
 
             ]
           },
