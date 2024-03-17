@@ -30,10 +30,11 @@ features:
 ---
 <script>
 var _hmt = _hmt || [];
-(function() {
+function send() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?e03d1197ba7abe7aa689977cff58c39a";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
-})();
+};
+send();
 </script>
