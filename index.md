@@ -43,3 +43,4 @@ onMounted(()=>{
 </script>
 <meta name="keywords" content="NEU,东北大学,校园网,保研,生存手册,新生指南,入学指南,指南,保研,考研,东大,南湖,浑南"/>
 <meta name="description" content="NEU生存手册是帮助东北大学的同学在生活、学习等方面提供帮助的网站"/>
+<meta name="baidu-site-verification" content="codeva-r46gbVuad2" />
