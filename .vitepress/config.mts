@@ -11,7 +11,7 @@ export default defineConfig({
       'link', { rel: 'icon', href: '/poached-eggs-svgrepo-com.svg' }
     ],
     [
-      'meta', { name: 'keywords', content: '东北大学' }
+      'meta', { name: 'keywords', content: '东北大学,新生,指南,手册,校园卡,校园网,浑南校区,南湖校区' }
     ],
     [
       'meta', { name: 'baidu-site-verification', content: 'codeva-r46gbVuad2' }
