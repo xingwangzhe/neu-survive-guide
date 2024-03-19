@@ -16,8 +16,8 @@ hero:
 features:
   - icon:
       src: /drumstick-svgrepo-com.svg
-    title: 公告
-    details: 更新内容
+    title: 更新日志
+    details: 更新了选调、诈骗防范相关内容
   - title: 生活贴士
     icon:
       src: /prickly-pear-svgrepo-com.svg
