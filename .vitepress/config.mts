@@ -9,10 +9,23 @@ export default defineConfig({
     // 设置 favor.ico，.vuepress/public 下
     [
       'link', { rel: 'icon', href: '/poached-eggs-svgrepo-com.svg' }
-    ]]
+    ],
+    [
+      'meta', { name: 'keywords', content: '东北大学' }
+    ],
+    [
+      'meta', { name: 'baidu-site-verification', content: 'codeva-r46gbVuad2' }
+    ],
+
+
+  ]
   ,
   title: "NEU Survive Guide",
-  description: "An guide for NEUer",
+  titleTemplate: 'NEU生存手册',
+  description: "一个是帮助东北大学的同学在生活、学习等方面提供帮助的网站",
+  
+
+
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
