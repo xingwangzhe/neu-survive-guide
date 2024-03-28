@@ -21,7 +21,9 @@
 许多竞赛依托大创的科研项目参加，比如节能减排大赛、材料热处理大赛、冶金科技竞赛等等。
 
 附（联系老师的基本文案）：
-
+<p align="center">
+  <img src="/jingsai.png"  width="400">
+</p>
 
 <script setup>
 import TimeLineComponent from '../components/TimeLineComponent.vue'
