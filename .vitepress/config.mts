@@ -90,6 +90,7 @@ export default defineConfig({
           { text: '机考指南', link: '/learning/jikao' },
           { text: '保研', link: '/learning/baoyan' },
           { text: '公共课', link: '/learning/gonggongke' },
+          { text: '竞赛', link: '/learning/jingsai' },
           { text: '选调', link: '/learning/xuandiao' },
         ]
       },
