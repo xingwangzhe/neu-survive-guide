@@ -121,9 +121,9 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    // socialLinks: [
-    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    // ]
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/SugrSertraline/neu-survive-guide' }
+    ]
   },
   // base: '/neu-survive-guide/'
   // base: '/test/'
