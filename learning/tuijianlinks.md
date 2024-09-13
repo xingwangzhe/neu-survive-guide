@@ -164,7 +164,9 @@
             </div>
 ```
 
-## 那么效果如下
+## 那么效果如下 
+
+ 
 
  <div class="card">
                <img class="ava" src="https://neu.sugrsertraline.cn/poached-eggs-svgrepo-com.svg">
@@ -175,4 +177,6 @@
                   <div class="info">为NEUer们提供的生存攻略</div>
                </div>
             </div>
+
+
 
