@@ -8,7 +8,9 @@
 或者扫描二维码：
  
 <p align="center">
+ <a href="https://qm.qq.com/q/JuqmR0z4GW"> 
   <img src="/qrcode.jpg" alt="QQ群二维码" width="400">
+ </a>
 </p>
 
 为了让大家能够在东北大学的本科阶段快乐、充实、有收获，欢迎NEUer们的加入！！
